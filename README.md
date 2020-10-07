@@ -1,0 +1,1 @@
+# git-cred-guarded2
